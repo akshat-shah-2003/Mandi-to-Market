@@ -1,0 +1,4 @@
+1. Login to data.gov.in: https://www.data.gov.in/resource/current-daily-price-various-commodities-various-markets-mandi
+2. Login and generate API key. Add credentials in .env
+2. Since the api limit is 1000 records per request, we have to pull data in batches. 
+3. Pull data in Mandi-to-Market\data\raw\madhya_pradesh\mandi_prices.json, if works fine, set up Snowflake.

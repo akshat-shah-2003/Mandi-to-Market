@@ -1,0 +1,14 @@
+[
+  {
+    "state": "Goa",
+    "district": "North Goa",
+    "market": "Mapusa APMC",
+    "commodity": "Green Chilli",
+    "variety": "Green Chilly",
+    "grade": "FAQ",
+    "arrival_date": "27/08/2026",
+    "min_price": 2800,
+    "max_price": 2800,
+    "modal_price": 2800
+  }
+]
