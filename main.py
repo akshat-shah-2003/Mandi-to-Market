@@ -10,6 +10,7 @@ STATES = [
     "Gujarat",
     "Haryana",
     "Himachal Pradesh",
+    "Jammu and Kashmir",
     "Jharkhand",
     "Karnataka",
     "Kerala",
